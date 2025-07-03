@@ -18,7 +18,7 @@ namespace TestWebApp.Controllers
             int i = 2;
             int j=4, k=0;
             k2 = i + j;
-
+            k2
             return View();
         }
 
