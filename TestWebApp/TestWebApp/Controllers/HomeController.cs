@@ -15,6 +15,10 @@ namespace TestWebApp.Controllers
 
         public IActionResult Index()
         {
+            int i = 2;
+            int j=4, k=0;
+            k2 = i + j;
+
             return View();
         }
 
